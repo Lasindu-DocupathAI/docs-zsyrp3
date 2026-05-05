@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-syh1yy.rtphotpalace303.com/sitemap.xml
